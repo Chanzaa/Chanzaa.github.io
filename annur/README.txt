@@ -1,9 +1,9 @@
--------Ini merupakan projek contoh kerja khusus sekolah menengah---------
+-------This is a special work sample project in secondary school---------
 
-< SISTEM PERTANDINGAN />
+< COMPETITION SYSTEM />
 
-Saya membantu dalam proses pembuatan dan penyelesaian projek ini walaupun ia bukannya tugasan saya kerana ianya merupakan
-tugasan bagi pelajar yang mengambil aliran sains komputer walaubagaimanapun saya cuba sehabis baik untuk menyiapkan projek 
-ini dengan bantuan rakan-rakan yang lainn juga
+I helped in the process of creating and completing this project even though it was not my assignment as it was a
+assignment for students taking computer science stream however I tried my best to prepare
+this project with the help of other friends as well
 
-DISCLAMER : ini projek rakan dan saya hanya tolong mana yang boleh.
+DISCLAMER : This is a friend's project and I only help where I can help. THANKS:)
